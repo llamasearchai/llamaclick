@@ -1,0 +1,14 @@
+    Updating crates.io index
+   Packaging llamaclick v0.1.0 (/Users/hypocrite/Desktop/llamasearchai-git/finalized/llamaclick)
+    Updating crates.io index
+   Verifying llamaclick v0.1.0 (/Users/hypocrite/Desktop/llamasearchai-git/finalized/llamaclick)
+error: failed to verify package tarball
+
+Caused by:
+  rustc 1.79.0 is not supported by the following packages:
+    litemap@0.7.5 requires rustc 1.81
+    native-tls@0.2.14 requires rustc 1.80.0
+    native-tls@0.2.14 requires rustc 1.80.0
+    native-tls@0.2.14 requires rustc 1.80.0
+    native-tls@0.2.14 requires rustc 1.80.0
+    zerofrom@0.1.6 requires rustc 1.81
