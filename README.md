@@ -2,10 +2,10 @@
 
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)](https://github.com/llamasearch/llamaclick/actions)
+[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)](https://llamasearch.ai
 [![crates.io](https://img.shields.io/badge/crates.io-v0.1.0-blue)](https://crates.io/crates/llamaclick)
 [![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.rs/llamaclick)
-[![Benchmarks](https://img.shields.io/badge/benchmarks-view-yellow)](https://llamasearch.ai/llamaclick/benchmarks)
+[![Benchmarks](https://img.shields.io/badge/benchmarks-view-yellow)](https://llamasearch.ai
 
 <div align="center">
   <img src="docs/images/llamaclick_banner.png" alt="LlamaClick Banner" width="800">
@@ -63,7 +63,7 @@ brew install llamasearch/tap/llamaclick
 ### Using Scoop (Windows)
 
 ```bash
-scoop bucket add llamasearch https://github.com/llamasearch/scoop-bucket.git
+scoop bucket add llamasearch https://llamasearch.ai
 scoop install llamaclick
 ```
 
@@ -71,7 +71,7 @@ scoop install llamaclick
 
 ```bash
 # Clone the repository
-git clone https://github.com/llamasearch/llamaclick.git
+git clone https://llamasearch.ai
 cd llamaclick
 
 # Build the project
@@ -264,8 +264,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <a href="https://llamasearch.ai">
+  <a href="https://llamasearch.ai
     <img src="docs/images/llamasearch_logo.png" alt="LlamaSearch Logo" width="200">
   </a>
-  <p><strong>LlamaClick</strong> is proudly developed and maintained by <a href="https://llamasearch.ai">LlamaSearch AI</a></p>
+  <p><strong>LlamaClick</strong> is proudly developed and maintained by <a href="https://llamasearch.ai AI</a></p>
 </div>
